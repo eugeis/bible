@@ -1,0 +1,3 @@
+[submodule "themes/periodic-table"]
+	path = themes/periodic-table
+	url = https://github.com/eugeis/periodic-table.git
