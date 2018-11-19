@@ -1,2 +1,2 @@
 # bible
-Bible REST api for
+Bible - Hugo web site as periodic table
