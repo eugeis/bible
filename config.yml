@@ -1,0 +1,29 @@
+baseURL: http://bible.eisler.online
+
+languageCode: de-De
+title: Bibel
+#theme = "ga-hugo-theme"
+theme: periodic-table
+
+languageCode: de-De
+defaultContentLanguage: de
+
+languages:
+  de:
+    languageName: Deutsch
+    params:
+      linkedin: https://linkedin.com/whoever
+    title: Bibel
+    weight: 1
+  en:
+    languageName: English
+    params:
+      linkedin: https://linkedin.com/fr/whoever
+    title: Bible
+    weight: 2
+  ru:
+    languageName: Русский
+    params:
+      linkedin: https://linkedin.com/fr/whoever
+    title: Библия
+    weight: 3
