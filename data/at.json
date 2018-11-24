@@ -13,20 +13,8 @@
         "group": "legende"
     },
     "groups": {
-        "gospel": {
-            "name": "Evangelien"
-        },
         "history": {
             "name": "Geschichtliche"
-        },
-        "paulEpistels": {
-            "name": "Paulusbriefe"
-        },
-        "commonEpistels": {
-            "name": "Allgemeine Briefe"
-        },
-        "revelation": {
-            "name": "Die Offenbarung des Johannes"
         },
         "tora": {
             "name": "Die Fünf Bücher Mose"
