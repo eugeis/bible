@@ -39,7 +39,7 @@
             "yearTo": 59,
             "keyword": "Königreich",
             "mainIdea": "Jesus: König u. Messias",
-            "keyVerse": "1:1",
+            "keyVerse": "1,1",
             "author": "Matthäus",
             "testament": "NT",
             "group": "gospel"
@@ -52,7 +52,7 @@
             "year": 50,
             "keyword": "Handeln",
             "mainIdea": "Jesus: der Knecht",
-            "keyVerse": "10:45",
+            "keyVerse": "10,45",
             "author": "Mark",
             "testament": "NT",
             "group": "gospel"
@@ -66,7 +66,7 @@
             "yearTo": 65,
             "keyword": "Menschensohn",
             "mainIdea": "Jesus: v. Menschenso. u. Erretter",
-            "keyVerse": "19:10; 1:4",
+            "keyVerse": "19,10; 1,4",
             "author": "Lukas",
             "testament": "NT",
             "group": "gospel"
@@ -80,7 +80,7 @@
             "yearTo": 90,
             "keyword": "Glaube",
             "mainIdea": "Jesus: Sohn Gottes",
-            "keyVerse": "20:30-31",
+            "keyVerse": "20,30-31",
             "author": "Johannes",
             "testament": "NT",
             "group": "gospel"
@@ -94,7 +94,7 @@
             "yearTo": 64,
             "keyword": "Taten",
             "mainIdea": "Gemeinde durch HG",
-            "keyVerse": "1:8",
+            "keyVerse": "1,8",
             "author": "Lukas",
             "testament": "NT",
             "group": "history"
@@ -106,9 +106,9 @@
             "verses": 433,
             "year": 56,
             "yearTo": 58,
-            "keyword": "Gerechtigkeit",
-            "mainIdea": "Gerechtigkeit durch Glauben",
-            "keyVerse": "5:1; 3:23-24",
+            "keyword": "Rechtfertigung",
+            "mainIdea": "Rechtfertigung aus Glauben",
+            "keyVerse": "5,1; 3,23-24",
             "author": "Paulus",
             "testament": "NT",
             "group": "paulEpistels"
@@ -122,7 +122,7 @@
             "year": 55,
             "keyword": "Ordnung",
             "mainIdea": "Satzung der Gemeinde",
-            "keyVerse": "3:11;16:13-14",
+            "keyVerse": "3,11;16,13-14",
             "author": "Paulus",
             "testament": "NT",
             "group": "paulEpistels"
@@ -137,7 +137,7 @@
             "yearTo": 57,
             "keyword": "Trost u. Dienst",
             "mainIdea": "Wesen des geistlichen Dienstes",
-            "keyVerse": "6:4-8",
+            "keyVerse": "6,4-8",
             "author": "Paulus",
             "testament": "NT",
             "group": "paulEpistels"
@@ -151,7 +151,7 @@
             "yearTo": 55,
             "keyword": "Glauben",
             "mainIdea": "Gerechtigkeit durch Glauben",
-            "keyVerse": "3:1-3; 5:1",
+            "keyVerse": "5,1",
             "author": "Paulus",
             "testament": "NT",
             "group": "paulEpistels"
@@ -165,7 +165,7 @@
             "yearTo": 63,
             "keyword": "Gemeinde",
             "mainIdea": "Gemeinde",
-            "keyVerse": "1:22-23",
+            "keyVerse": "1,22-23",
             "author": "Paulus",
             "testament": "NT",
             "group": "paulEpistels"
@@ -178,7 +178,7 @@
             "year": 61,
             "keyword": "Freude",
             "mainIdea": "Freude",
-            "keyVerse": "4:4",
+            "keyVerse": "4,4",
             "author": "Paulus",
             "testament": "NT",
             "group": "paulEpistels"
@@ -192,7 +192,7 @@
             "yearTo": 62,
             "keyword": "Majestät",
             "mainIdea": "Majestät Christi",
-            "keyVerse": "1:15-18; 2:9",
+            "keyVerse": "1,15-18; 2,9",
             "author": "Paulus",
             "testament": "NT",
             "group": "paulEpistels"
@@ -206,7 +206,7 @@
             "year": 50,
             "keyword": "Wiederkunft",
             "mainIdea": "Wiederkunft Christi",
-            "keyVerse": "5:1-3",
+            "keyVerse": "5,1-3",
             "author": "Paulus",
             "testament": "NT",
             "group": "paulEpistels"
@@ -219,9 +219,9 @@
             "verses": 47,
             "year": 51,
             "yearTo": 52,
-            "keyword": "Wiederkunft",
-            "mainIdea": "Wiederkunft Christi",
-            "keyVerse": "2:7-12",
+            "keyword": "Tag des Herrn",
+            "mainIdea": "Verständnis des Tages des Herrn",
+            "keyVerse": "2,7-12",
             "author": "Paulus",
             "testament": "NT",
             "group": "paulEpistels"
@@ -236,7 +236,7 @@
             "yearTo": 66,
             "keyword": "Vorbild",
             "mainIdea": "Pastoraler Dienst",
-            "keyVerse": "3:15; 4:16",
+            "keyVerse": "3,15; 4,16",
             "author": "Paulus",
             "testament": "NT",
             "group": "paulEpistels"
@@ -250,7 +250,7 @@
             "year": 67,
             "keyword": "Treue",
             "mainIdea": "Treue, Geistliches Testament v. Paulus",
-            "keyVerse": "4:6-8",
+            "keyVerse": "4,6-8",
             "author": "Paulus",
             "testament": "NT",
             "group": "paulEpistels"
@@ -261,10 +261,9 @@
             "chapters": 3,
             "verses": 46,
             "year": 66,
-            "yearTo": 66,
             "keyword": "Vorbild",
             "mainIdea": "Pastoraler Dienst",
-            "keyVerse": "1:5",
+            "keyVerse": "1,5",
             "author": "Paulus",
             "testament": "NT",
             "group": "paulEpistels"
@@ -290,7 +289,7 @@
             "year": 65,
             "keyword": "Besser",
             "mainIdea": "Besser",
-            "keyVerse": "8:6",
+            "keyVerse": "8,6",
             "testament": "NT",
             "group": "commonEpistels"
         },
@@ -302,7 +301,7 @@
             "year": 45,
             "keyword": "Werke",
             "mainIdea": "Glaube u. Werke",
-            "keyVerse": "2:26",
+            "keyVerse": "2,26",
             "author": "Jakobus",
             "testament": "NT",
             "group": "commonEpistels"
@@ -317,7 +316,7 @@
             "yearTo": 65,
             "keyword": "Leiden",
             "mainIdea": "Leiden",
-            "keyVerse": "4:13",
+            "keyVerse": "4,13",
             "author": "Petrus",
             "testament": "NT",
             "group": "commonEpistels"
@@ -332,7 +331,7 @@
             "yearTo": 68,
             "keyword": "Erinnern",
             "mainIdea": "Erkenntnis",
-            "keyVerse": "1:3",
+            "keyVerse": "1,3",
             "author": "Petrus",
             "testament": "NT",
             "group": "commonEpistels"
@@ -347,7 +346,7 @@
             "yearTo": 95,
             "keyword": "Gemeinschaft",
             "mainIdea": "Gemeinschaft, Wissen, Liebe",
-            "keyVerse": "1:7",
+            "keyVerse": "1,7",
             "author": "Johannes",
             "testament": "NT",
             "group": "commonEpistels"
@@ -405,7 +404,7 @@
             "yearTo": 95,
             "keyword": "Vollendung",
             "mainIdea": "Konflikt u. Vollendung",
-            "keyVerse": "1:8",
+            "keyVerse": "1,8",
             "author": "Johannes",
             "testament": "NT",
             "group": "revelation"
