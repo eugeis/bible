@@ -14,7 +14,7 @@ services:
         - traefik.enable=true
         - traefik.nginx.port=80
         - traefik.frontend.entryPoints.http.redirect=https
-        - traefik.frontend.rule=Host:bible.eisler.online
+        - traefik.frontend.rule=Host:bible.eisler.tech
 
 networks:
   net:
