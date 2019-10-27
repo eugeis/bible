@@ -1,4 +1,4 @@
-baseURL: http://bible.eisler.online
+baseURL: http://bible.eisler.tech/
 
 languageCode: de-De
 title: Bibel
@@ -7,6 +7,7 @@ theme: periodic-table
 
 languageCode: de-De
 defaultContentLanguage: de
+defaultContentLanguageInSubdir: true
 
 languages:
   de:

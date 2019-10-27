@@ -1,5 +1,5 @@
 ---
-title: "Книги Нового Завета"
+title: "Книги Нового Завета (nocolor)"
 date: 2018-11-14T22:04:11+01:00
 periodicTable: nt.ru
 theme: nocolor
