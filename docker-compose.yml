@@ -3,14 +3,14 @@ version: '3.7'
 services:
   nginx:
     image: nginx
+    container_name: bible
     #ports:
     # - 80:80
     volumes:
       - /home/ee/hugo/bible/public:/usr/share/nginx/html:ro
     networks:
       - net
-    deploy:
-      labels:
+    labels:
         - traefik.enable=true
         - traefik.nginx.port=80
         - traefik.frontend.entryPoints.http.redirect=https
