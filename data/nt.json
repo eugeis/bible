@@ -29,17 +29,19 @@
             "name": "Die Offenbarung des Johannes"
         }
     },
-    "elements": [
-        {
+    "elements": [{
             "name": "Evangelium nach Matthäus",
             "abbr": "Mt",
             "chapters": 28,
             "verses": 1071,
-            "year": 57,
-            "yearTo": 59,
+            "year": 60,
             "keyword": "Königreich",
             "mainIdea": "Jesus: König u. Messias",
-            "keyVerse": "1,1",
+            "keyVerse": "27,37",
+            "translations": [
+                { "slt": "[...] Dies ist Jesus, der König der Juden." },
+                { "rst": "[...] Сей есть Иисус, Царь Иудейский." }
+            ],
             "author": "Matthäus",
             "testament": "NT",
             "group": "gospel"
@@ -49,10 +51,14 @@
             "abbr": "Mk",
             "chapters": 16,
             "verses": 678,
-            "year": 50,
+            "year": 55,
             "keyword": "Handeln",
             "mainIdea": "Jesus: der Knecht",
             "keyVerse": "10,45",
+            "translations": [
+                { "slt": "Selbst der Menschensohn ist nicht gekommen, um sich dienen zu lassen, sondern um anderen zu dienen und sein Leben als Lösegeld für viele Menschen hinzugeben." },
+                { "rst": "Ибо и Сын Человеческий не для того пришел, чтобы Ему служили, но чтобы послужить и отдать душу Свою для искупления многих." }
+            ],
             "author": "Mark",
             "testament": "NT",
             "group": "gospel"
@@ -66,7 +72,11 @@
             "yearTo": 65,
             "keyword": "Menschensohn",
             "mainIdea": "Jesus: v. Menschenso. u. Erretter",
-            "keyVerse": "19,10; 1,4",
+            "keyVerse": "19,10",
+            "translations": [
+                { "nlb": "denn der Sohn des Menschen ist gekommen, um zu suchen und zu retten, was verloren ist." },
+                { "rst": "ибо Сын Человеческий пришел взыскать и спасти погибшее." }
+            ],
             "author": "Lukas",
             "testament": "NT",
             "group": "gospel"
@@ -108,7 +118,7 @@
             "yearTo": 58,
             "keyword": "Rechtfertigung",
             "mainIdea": "Rechtfertigung aus Glauben",
-            "keyVerse": "5,1; 3,23-24",
+            "keyVerse": "5,1",
             "author": "Paulus",
             "testament": "NT",
             "group": "paulEpistels"
@@ -122,7 +132,7 @@
             "year": 55,
             "keyword": "Ordnung",
             "mainIdea": "Satzung der Gemeinde",
-            "keyVerse": "3,11;16,13-14",
+            "keyVerse": "1,10",
             "author": "Paulus",
             "testament": "NT",
             "group": "paulEpistels"
@@ -137,7 +147,7 @@
             "yearTo": 57,
             "keyword": "Trost u. Dienst",
             "mainIdea": "Wesen des geistlichen Dienstes",
-            "keyVerse": "6,4-8",
+            "keyVerse": "5,20",
             "author": "Paulus",
             "testament": "NT",
             "group": "paulEpistels"
@@ -192,7 +202,7 @@
             "yearTo": 62,
             "keyword": "Majestät",
             "mainIdea": "Majestät Christi",
-            "keyVerse": "1,15-18; 2,9",
+            "keyVerse": "2,9",
             "author": "Paulus",
             "testament": "NT",
             "group": "paulEpistels"
@@ -206,7 +216,7 @@
             "year": 50,
             "keyword": "Wiederkunft",
             "mainIdea": "Wiederkunft Christi",
-            "keyVerse": "5,1-3",
+            "keyVerse": "4,14",
             "author": "Paulus",
             "testament": "NT",
             "group": "paulEpistels"
@@ -219,9 +229,9 @@
             "verses": 47,
             "year": 51,
             "yearTo": 52,
-            "keyword": "Tag des Herrn",
+            "keyword": "Ausharen",
             "mainIdea": "Verständnis des Tages des Herrn",
-            "keyVerse": "2,7-12",
+            "keyVerse": "3,5",
             "author": "Paulus",
             "testament": "NT",
             "group": "paulEpistels"
@@ -236,7 +246,7 @@
             "yearTo": 66,
             "keyword": "Vorbild",
             "mainIdea": "Pastoraler Dienst",
-            "keyVerse": "3,15; 4,16",
+            "keyVerse": "4,12",
             "author": "Paulus",
             "testament": "NT",
             "group": "paulEpistels"
@@ -250,7 +260,7 @@
             "year": 67,
             "keyword": "Treue",
             "mainIdea": "Treue, Geistliches Testament v. Paulus",
-            "keyVerse": "4,6-8",
+            "keyVerse": "2,15",
             "author": "Paulus",
             "testament": "NT",
             "group": "paulEpistels"
@@ -390,7 +400,7 @@
             "yearTo": 80,
             "keyword": "Bewahrt",
             "mainIdea": "Bewahrung",
-            "keyVerse": "3-4",
+            "keyVerse": "3",
             "author": "Judas",
             "testament": "NT",
             "group": "commonEpistels"
